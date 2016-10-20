@@ -4,5 +4,5 @@
 
 ![](images/table 1-1.png?raw=true)
 
-![Alt text](Yup)
+
 <img src="https://rawgit.com/sevnadj/rpn/master/coverage.svg">
