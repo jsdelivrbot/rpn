@@ -33,5 +33,11 @@ def main():
 		result = calculate(input("rpn calc> "))
 		print("Result: ", result)
 
+	#if(result < 0):
+		#print("Is negative", result)
+	#else:
+		#print("Is positive", result)
+
+
 if __name__ == '__main__':
 	main()

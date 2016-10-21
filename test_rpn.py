@@ -21,6 +21,9 @@ class TestBasics(unittest.TestCase):
 	def test_exp(self):
 		result = rpn.calculate("2 3 ^")
 		self.assertEqual(8, result)
+	#def test_fail(self):
+		#result = rpn.calculate("1 2 *")
+		#self.assertEqual(3, result)
 
 if __name__ == '__main__':
     unittest.main()
